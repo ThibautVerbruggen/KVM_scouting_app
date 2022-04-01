@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5c82d0c-a640-4bb7-857d-9dafdbf5058f" name="Changes" comment="30/03/2022 Clean up + Departures 0.1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" notifyAboutMissingVendor="false" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25BaapaIf4xW16QIXLZ96TTOEzE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ciscout\public\assets" />
+      <recent name="C:\xampp\htdocs\ciscout\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ciscout" />
+      <recent name="C:\xampp\htdocs\ciscout\public\assets\images" />
+      <recent name="C:\xampp\htdocs\ciscout\public" />
+      <recent name="C:\xampp\htdocs\ciscout\assets\css" />
+      <recent name="C:\xampp\htdocs\ciscout\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c82d0c-a640-4bb7-857d-9dafdbf5058f" name="Changes" comment="" />
+      <created>1645003000103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645003000103</updated>
+      <workItem from="1645005657766" duration="16904000" />
+      <workItem from="1645085883893" duration="27527000" />
+      <workItem from="1645184643467" duration="7845000" />
+      <workItem from="1645267059957" duration="3899000" />
+      <workItem from="1645354078730" duration="3177000" />
+      <workItem from="1645358280101" duration="11563000" />
+      <workItem from="1645431275678" duration="27049000" />
+      <workItem from="1645517888476" duration="21648000" />
+      <workItem from="1645615672585" duration="11646000" />
+      <workItem from="1645690517572" duration="29205000" />
+      <workItem from="1645793772163" duration="6208000" />
+      <workItem from="1645874517317" duration="12177000" />
+      <workItem from="1645956703736" duration="6262000" />
+      <workItem from="1646036103228" duration="22808000" />
+      <workItem from="1646121203373" duration="27379000" />
+      <workItem from="1646223205379" duration="14318000" />
+      <workItem from="1646304410921" duration="15291000" />
+      <workItem from="1646381862848" duration="24052000" />
+      <workItem from="1646484587644" duration="760000" />
+      <workItem from="1646588404562" duration="370000" />
+      <workItem from="1646641257539" duration="28813000" />
+      <workItem from="1646727999082" duration="25754000" />
+      <workItem from="1646820452458" duration="12217000" />
+      <workItem from="1646900300846" duration="19501000" />
+      <workItem from="1646991887070" duration="11402000" />
+      <workItem from="1647246167255" duration="18468000" />
+      <workItem from="1647273864245" duration="46000" />
+      <workItem from="1647345316733" duration="13014000" />
+      <workItem from="1647361310155" duration="417000" />
+      <workItem from="1647361749022" duration="82000" />
+      <workItem from="1647424802168" duration="11465000" />
+      <workItem from="1647441919077" duration="530000" />
+      <workItem from="1647511674859" duration="9752000" />
+      <workItem from="1647713681504" duration="4189000" />
+      <workItem from="1647850526675" duration="23959000" />
+      <workItem from="1647937463756" duration="18932000" />
+      <workItem from="1648028411976" duration="17685000" />
+      <workItem from="1648110328101" duration="20533000" />
+      <workItem from="1648451626402" duration="8627000" />
+      <workItem from="1648460872430" duration="14838000" />
+      <workItem from="1648536810069" duration="24761000" />
+      <workItem from="1648625015893" duration="24427000" />
+      <workItem from="1648725394002" duration="4140000" />
+      <workItem from="1648733498412" duration="804000" />
+      <workItem from="1648797909016" duration="21601000" />
+    </task>
+    <task id="LOCAL-00001" summary="20/02/2022 transfermarkt API 2.0">
+      <created>1645388032156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645388032156</updated>
+    </task>
+    <task id="LOCAL-00002" summary="27/02/2022 multiple markers">
+      <created>1645963023593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645963023593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="28/02/2022 visualization, table and distance">
+      <created>1646064869803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646064869803</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3/03/2022 Database with players">
+      <created>1646325699896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646325699897</updated>
+    </task>
+    <task id="LOCAL-00005" summary="04/03/2022 Database with fixtures">
+      <created>1646485297149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646485297149</updated>
+    </task>
+    <task id="LOCAL-00006" summary="09/03/2022 After test data + adding individual player">
+      <created>1646836796825</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646836796825</updated>
+    </task>
+    <task id="LOCAL-00007" summary="10/03/2022 Players list + Player detail + sorting">
+      <created>1646922390351</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646922390351</updated>
+    </task>
+    <task id="LOCAL-00008" summary="11/03/2022 Sorting + Register">
+      <created>1647018446828</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647018446828</updated>
+    </task>
+    <task id="LOCAL-00009" summary="11/03/2022 Login + Distance">
+      <created>1647273906553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647273906553</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11/03/2022 Directions API">
+      <created>1647361717096</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1647361717096</updated>
+    </task>
+    <task id="LOCAL-00011" summary="16/03/2022 Directions API 2.0">
+      <created>1647442432822</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1647442432822</updated>
+    </task>
+    <task id="LOCAL-00012" summary="17/03/2022 Directions API 2.1">
+      <created>1647524586217</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1647524586217</updated>
+    </task>
+    <task id="LOCAL-00013" summary="19/03/2022 Directions API 2.2 + removal past matches">
+      <created>1647718112134</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1647718112134</updated>
+    </task>
+    <task id="LOCAL-00014" summary="21/03/2022 testing">
+      <created>1647879381314</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1647879381315</updated>
+    </task>
+    <task id="LOCAL-00015" summary="23/03/2022 Map in view">
+      <created>1648051313356</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1648051313357</updated>
+    </task>
+    <task id="LOCAL-00016" summary="24/03/2022 Finetuning and testing">
+      <created>1648135613164</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648135613164</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2/03/2022 Finetuning and debugging">
+      <created>1648479746042</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1648479746042</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2/03/2022 Search player and finetuning">
+      <created>1648562544929</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1648562544929</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="18/02/2022 transfermarkt API" />
+    <MESSAGE value="20/02/2022 transfermarkt API 2.0" />
+    <MESSAGE value="27/02/2022 multiple markers" />
+    <MESSAGE value="28/02/2022 visualization, table and distance" />
+    <MESSAGE value="3/03/2022 Database with players" />
+    <MESSAGE value="3/03/2022 Database with fixtures" />
+    <MESSAGE value="04/03/2022 Database with fixtures" />
+    <MESSAGE value="09/03/2022 After test data + adding individual player" />
+    <MESSAGE value="10/03/2022 Players list + Player detail + sorting" />
+    <MESSAGE value="11/03/2022 Sorting + Register" />
+    <MESSAGE value="11/03/2022 Login + Distance" />
+    <MESSAGE value="11/03/2022 Directions API" />
+    <MESSAGE value="16/03/2022 Directions API 2.0" />
+    <MESSAGE value="17/03/2022 Directions API 2.1" />
+    <MESSAGE value="19/03/2022 Directions API 2.2 + removal past matches" />
+    <MESSAGE value="21/03/2022 testing" />
+    <MESSAGE value="23/03/2022 Map in view" />
+    <MESSAGE value="24/03/2022 Finetuning and testing" />
+    <MESSAGE value="2/03/2022 Finetuning and debugging" />
+    <MESSAGE value="2/03/2022 Search player and finetuning" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/03/2022 Search player and finetuning" />
+  </component>
+</project>
