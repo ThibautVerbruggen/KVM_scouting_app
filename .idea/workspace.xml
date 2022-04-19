@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c82d0c-a640-4bb7-857d-9dafdbf5058f" name="Changes" comment="30/03/2022 Clean up + Departures 0.1" />
+    <list default="true" id="b5c82d0c-a640-4bb7-857d-9dafdbf5058f" name="Changes" comment="01/04/2022 Transfer History">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -125,7 +128,13 @@
       <workItem from="1648625015893" duration="24427000" />
       <workItem from="1648725394002" duration="4140000" />
       <workItem from="1648733498412" duration="804000" />
-      <workItem from="1648797909016" duration="21601000" />
+      <workItem from="1648797909016" duration="22031000" />
+      <workItem from="1649752618302" duration="22222000" />
+      <workItem from="1649833994860" duration="22021000" />
+      <workItem from="1649923726130" duration="3377000" />
+      <workItem from="1650029203656" duration="4131000" />
+      <workItem from="1650034132665" duration="971000" />
+      <workItem from="1650352414440" duration="12658000" />
     </task>
     <task id="LOCAL-00001" summary="20/02/2022 transfermarkt API 2.0">
       <created>1645388032156</created>
